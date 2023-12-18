@@ -1,4 +1,4 @@
-🚀 Welcome to Mission To Psyche - Nickel Class! 🪐
+## 🚀 Welcome to Mission To Psyche - Nickel Class! 🪐
 🎉 Greetings, intrepid space explorers! Join us on an extraordinary interstellar voyage as we embark on our capstone projects as part of the esteemed Nickel Class! 🪐✨
 
 📚 Mission To Psyche is proud to present a constellation of exceptional repositories, each showcasing the remarkable talent and ingenuity of our esteemed cohort.
